@@ -86,7 +86,7 @@ const routes: Routes = [
   { path: 'login', component: LoginComponent},
   { path: 'maps', component: MapsComponent},
   { path: 'basic-form', component: BasicFormComponent},
-  { path: 'error', component: ErrorComponent},
+  { path: 'error', component: ErrorComponent}
 ];
 
 @NgModule({
